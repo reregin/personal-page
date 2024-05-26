@@ -1,7 +1,6 @@
-# TIK2032-Project
-Repositori project TIK2032 - Regina Maria Samantha George 220211060112
+# Regina George's Personal Page
+This repository contains source code of my personal page. Look at it [here](https://reregin.github.io/personal-page/).
 
-Repositori ini akan memuat setiap tahapan project dari HTML hingga selesai.
-Project atau branch yang telah dibuat:
-- Tugas-html
-- Tugas-css
+Find me on other platform as well!
+- [LinkedIn](https://www.linkedin.com/in/regina-george/)
+- [HackerRank](https://www.hackerrank.com/profile/reginageo)
